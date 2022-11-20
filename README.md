@@ -1,1 +1,1 @@
-# SNACK_GAME
+# SNAKE_GAME
